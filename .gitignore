@@ -1,0 +1,9 @@
+pdfs/
+images/
+videos/
+videos-with-music/
+music/
+__pycache__/
+*.part
+*.pyc
+.DS_Store
