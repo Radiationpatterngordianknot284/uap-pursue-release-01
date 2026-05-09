@@ -38,16 +38,16 @@ This repository is the only publicly available complete archive with:
 
 ## Download Everything
 
-> **All 3.7 GB — PDFs, photographs, videos, and videos with music — are on Google Drive, publicly accessible, no sign-in required.**
+> **All 5 GB — PDFs, photographs, videos, and videos with music — are on Google Drive, publicly accessible, no sign-in required.**
 
 ### [⬇️ Download Full Archive on Google Drive](https://drive.google.com/drive/folders/1j-cW20aJ1tGMDag6cTldIKtXMMFdpRKo?usp=sharing)
 
 | Folder | Contents | Size |
 |---|---|---|
-| `pdfs/` | 126 declassified PDF documents | ~250 MB |
+| `pdfs/` | 126 declassified PDF documents | ~2.3 GB |
 | `images/` | 14 photographs (FBI, NASA, DoD) | ~15 MB |
-| `videos/` | 28 original videos from DVIDS | ~3.4 GB |
-| `videos-with-music/` | 27 videos with cinematic instrumental soundtrack added | ~1.1 GB |
+| `videos/` | 28 original videos from DVIDS | ~1.2 GB |
+| `videos-with-music/` | 28 videos with cinematic instrumental soundtrack added | ~1.3 GB |
 
 ---
 
